@@ -1,0 +1,20 @@
+import:
+- package: github.com/gorilla/mux
+  version: cb4698366aa625048f3b815af6a0dea8aef9280a
+- package: github.com/shirou/gopsutil/cpu
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+- package: github.com/shirou/gopsutil/disk
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+- package: github.com/shirou/gopsutil/host
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+- package: github.com/shirou/gopsutil/internal/common
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+- package: github.com/shirou/gopsutil/mem
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+- package: github.com/shirou/gopsutil/net
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+- package: github.com/shirou/gopsutil/process
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+- package: golang.org/x/sys
+  version: 9e6071e1da7e0cc2ec5444db32f2a45dbc30e41c
+  repo: https://go.googlesource.com/sys
